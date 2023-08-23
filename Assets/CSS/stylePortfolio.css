@@ -187,6 +187,9 @@ input[type=submit]:focus {
 .footer {
     height: 72px;
 }
+.m-top-500px{
+    margin-top: 500px;
+}
 /*-------------------------------------Star----------------------------------------------*/
 .star::before,
 .star::after {
